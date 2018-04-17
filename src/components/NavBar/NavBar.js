@@ -2,11 +2,16 @@ import React from "react";
 import Score from "../Score";
 import "./NavBar.css";
 
+import logo from "../../logo.svg";
+
 const NavBar = props => (
   <nav className="navbar navbar-dark bg-primary text-center">
     <div className="col-md-4">
       <a className="navbar-brand" href="/">
         <h2 className="navbar-text font-weight-bold text-white">
+          <span>
+            <img src={logo} className="App-logo" alt="logo" />
+          </span>
           Memory Game
         </h2>
       </a>
