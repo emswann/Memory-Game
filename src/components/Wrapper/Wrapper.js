@@ -1,5 +1,4 @@
 import React from "react";
-import "./Wrapper.css";
 
 import background from "./background.jpg";
 
