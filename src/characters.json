@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Bugs Bunny",
-    "image": "/assets/images/BugsBunny.jpg",
+    "image": "assets/images/BugsBunny.jpg",
     "guessed": false
   },
   {
     "id": 2,
     "name": "Daffy Duck",
-    "image": "/assets/images/DaffyDuck.jpg",
+    "image": "assets/images/DaffyDuck.jpg",
     "guessed": false
   },
   {
     "id": 3,
     "name": "Donald Duck",
-    "image": "/assets/images/DonaldDuck.png",
+    "image": "assets/images/DonaldDuck.png",
     "guessed": false
   },
   {
     "id": 4,
     "name": "Elmer Fudd",
-    "image": "/assets/images/ElmerFudd.jpg",
+    "image": "assets/images/ElmerFudd.jpg",
     "guessed": false
   },
   {
     "id": 5,
     "name": "Goofy",
-    "image": "/assets/images/Goofy.png",
+    "image": "assets/images/Goofy.png",
     "guessed": false
   },
   {
     "id": 6,
     "name": "Mickey Mouse",
-    "image": "/assets/images/MickeyMouse.jpg",
+    "image": "assets/images/MickeyMouse.jpg",
     "guessed": false
   },
   {
     "id": 7,
     "name": "Minnie Mouse",
-    "image": "/assets/images/MinnieMouse.jpg",
+    "image": "assets/images/MinnieMouse.jpg",
     "guessed": false
   },
   {
     "id": 8,
     "name": "Porky Pig",
-    "image": "/assets/images/PorkyPig.jpg",
+    "image": "assets/images/PorkyPig.jpg",
     "guessed": false
   },
   {
     "id": 9,
     "name": "Sylvester",
-    "image": "/assets/images/Sylvester.png",
+    "image": "assets/images/Sylvester.png",
     "guessed": false
   },
   {
     "id": 10,
     "name": "Tasmanian Devil",
-    "image": "/assets/images/TasmanianDevil.jpg",
+    "image": "assets/images/TasmanianDevil.jpg",
     "guessed": false
   },
   {
     "id": 11,
     "name": "Tweety",
-    "image": "/assets/images/Tweety.jpg",
+    "image": "assets/images/Tweety.jpg",
     "guessed": false
   },
   {
     "id": 12,
     "name": "Yosemite Sam",
-    "image": "/assets/images/YosemiteSam.png",
+    "image": "assets/images/YosemiteSam.png",
     "guessed": false
   }
 ]
